@@ -4,4 +4,5 @@
 ```
 Spring Boot FRamework version: 3.0.6
 JDK version: 17
+BBDD: H2
 ```
